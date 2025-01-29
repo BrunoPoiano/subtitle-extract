@@ -1,2 +1,7 @@
-# subititle-extract
-Bash script to extract subtitles
+# subtitle extract
+
+Bash script to extract subtitles from video files using ffmpeg
+
+
+
+
